@@ -1,0 +1,36 @@
+
+# Anonymizer                                                                   #
+# Tor made easy (transparently routing traffic through Tor)                    #
+# ---------------------------------------------------------------------------- #
+
+# BUILD FROM SOURCE                                                            #
+# ---------------------------------------------------------------------------- #
+
+cd src
+make
+make install
+
+# DOCUMENTATION                                                                #
+# ---------------------------------------------------------------------------- #
+
+# ABOUT VALA
+https://wiki.gnome.org/Projects/Vala/
+https://en.wikipedia.org/wiki/Vala_(programming_language)
+
+# TUTORIALS, GUIDES AND REFERENCES
+https://valadoc.org/
+https://wiki.gnome.org/Projects/Vala/Tutorial
+https://developer.gnome.org/gnome-devel-demos/stable/beginner.vala.html.en
+
+# VALA AND GTK+
+https://wiki.gnome.org/Projects/Vala/GTKSample
+https://developer.gnome.org/gnome-devel-demos/stable/toolbar_builder.vala.html.en
+
+# VALA AND UNIX SHELL
+http://www.teejeetech.in/2013/05/vala-7-process-execution.html
+
+# NETFILTER/IPTABLES
+https://www.netfilter.org/
+
+# TOR
+https://www.torproject.org/

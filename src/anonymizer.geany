@@ -1,0 +1,46 @@
+[editor]
+line_wrapping=true
+line_break_column=80
+auto_continue_multiline=true
+
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=true
+strip_trailing_spaces=true
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=Anonymizer
+base_path=/home/netico/Documents/Code/anonymizer-gui
+description=Tor made easy (transparently routing traffic through Tor)                    #
+file_patterns=
+
+[long line marker]
+long_line_behaviour=2
+long_line_column=80
+
+[files]
+current_page=1
+FILE_NAME_0=19;None;0;EUTF-8;1;1;1;%2Fhome%2Fnetico%2FDocuments%2FCode%2Fanonymizer-gui%2FREADME;0;4
+FILE_NAME_1=1408;Vala;0;EUTF-8;1;1;1;%2Fhome%2Fnetico%2FDocuments%2FCode%2Fanonymizer-gui%2Fsrc%2Fanonymizer.vala;0;4
+FILE_NAME_2=263;Sh;0;EUTF-8;1;1;1;%2Fhome%2Fnetico%2FDocuments%2FCode%2Fanonymizer-gui%2Fsrc%2FMakefile;0;4
+
+[VTE]
+last_dir=/home/netico/Documents/Code/anonymizer-gui/src
+
+[build-menu]
+filetypes=Vala;Sh;
+ShFT_02_LB=_Lint
+ShFT_02_CM=shellcheck --format=gcc "%f"
+ShFT_02_WD=
+ValaFT_00_LB=_Compile
+ValaFT_00_CM=valac -c "%f"
+ValaFT_00_WD=
